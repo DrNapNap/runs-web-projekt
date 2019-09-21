@@ -1,13 +1,178 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
+  font-family:'Raleway'sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  padding: 0px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+
+
+.ma{
+  margin: 10px;
+  font-size: 19px;
 }
+
+.input{
+  height: 30px;
+}
+
+.navbar-expand-lg{
+justify-content: center;
+}
+
+.img{
+  background-image: url(/img/hero.jpg);
+  width: 100%;
+  height: 850px;
+  background-repeat: no-repeat;
+padding: 0px;
+
+background-size: cover;
+
+  margin: 0px;
+}
+
+.img-1{
+  background-image: url(/img/event.jpg);
+  
+  height: 850px;
+  background-repeat: no-repeat;
+padding: 0px;
+
+background-size: cover;
+
+  margin: 0px;
+}
+
+.min{
+  width: 60%;
+  height: 100px;
+}
+
+.hey-col{
+  background-color: #ffff00;
+}
+
+.hey-col-1{
+  background-color: #ffff00;
+  height: 800px;
+}
+
+.pa{
+ margin-top: 200px;
+ 
+}
+
+.shop{
+margin-top: 100px;
+}
+
+.ul{
+  list-style: none;
+}
+
+.shop-1{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.shop-p{
+  padding-left:10px ;
+}
+
+.black{
+  background-color: black;
+  color: white;
+ height: 85px;
+ margin: 10px;
+ text-align: center;
+}
+
+.bot{
+  left: 597px;
+  top: 150px;
+  height: 90px;
+}
+
+.img-2{
+  background-image: url(/img/map.jpg);
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.h{
+ height: 100px;
+}
+
+.main{
+ margin-left: px; 
+}
+
+.gule-1{
+  color: #ffff00;
+
+}
+
+.gule{
+  background-color: #ffff00;
+}
+
+.h-e{
+  height: 880px;
+  max-height: 100%;
+}
+
+.form-control{
+background-color: #ffff00 !important;
+
+}
+
+.btn-secondary{
+  background-color: black !important;
+  
+}
+
+.mark1{
+  margin-top: 60px;
+}
+
+.mark1-2{
+  margin-top: 260px;
+}
+
+.w{
+  width: 33%;
+  margin: auto;
+}
+.w-1{
+  width: 40%;
+  margin: auto;
+}
+
+.w_1{
+  width: 20%;
+}
+
+.mark2{
+  margin-bottom: 150px;
+}
+
+.mark3{
+  margin: 0px 0px 0px 0px !important;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+.mark4{
+margin: 550px 0px 0px 0px !important
+}
+
+
+.border{
+  border-radius:  black 10px solid !important;
+}
+
+
+
